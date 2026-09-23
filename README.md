@@ -1,4 +1,7 @@
 # minitorch
+
+[![MiniTorch 0-3 tests](https://github.com/Koraniel/hse_dl2_minitorch/actions/workflows/minitorch.yml/badge.svg?branch=main)](https://github.com/Koraniel/hse_dl2_minitorch/actions/workflows/minitorch.yml)
+
 The full minitorch student suite. 
 
 
